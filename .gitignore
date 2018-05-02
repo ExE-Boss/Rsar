@@ -14,6 +14,10 @@
 !README*
 !LICENSE*
 
+## Rust
+!/Cargo*
+**/*.rs.bk
+
 # Unwanted crap
 # =============
 .DS_Store
