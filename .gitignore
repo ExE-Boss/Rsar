@@ -1,0 +1,26 @@
+# Ignore Everything
+# =================
+/*
+
+# Except:
+# =======
+## Sources
+!/src
+
+## Git
+!/.gitattributes
+!/.gitignore
+!/.gitmodules
+!README*
+!LICENSE*
+
+# Unwanted crap
+# =============
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*~
